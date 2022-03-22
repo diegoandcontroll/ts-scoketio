@@ -1,2 +1,2 @@
 # ts-scoketio
-practicing socket io and typescript
+practicing socket
